@@ -4,4 +4,3 @@
 
 How to use git 
 
-this is markdown
