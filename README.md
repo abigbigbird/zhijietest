@@ -1,5 +1,7 @@
 # zhijietest
-hyn zui nb
-hahaha
 
-hyn zui cai
+## Learn Git
+
+How to use git 
+
+this is markdown
